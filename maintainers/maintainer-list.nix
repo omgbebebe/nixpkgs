@@ -3210,6 +3210,11 @@
     github = "olynch";
     name = "Owen Lynch";
   };
+  omg = {
+    email = "omgbebebe@gmail.com";
+    github = "omgbebebe";
+    name = "Sergey Bubnov";
+  };
   OPNA2608 = {
     email = "christoph.neidahl@gmail.com";
     github = "OPNA2608";

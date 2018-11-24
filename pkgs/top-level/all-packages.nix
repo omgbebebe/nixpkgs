@@ -10948,6 +10948,8 @@ with pkgs;
 
   libksi = callPackage ../development/libraries/libksi { };
 
+  liblemon = callPackage ../development/libraries/liblemon { };
+
   liblinear = callPackage ../development/libraries/liblinear { };
 
   libmad = callPackage ../development/libraries/libmad { };
